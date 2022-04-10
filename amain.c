@@ -1,2 +1,5 @@
 amain.c
+main()
+{
+}
 
